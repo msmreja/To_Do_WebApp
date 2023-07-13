@@ -1,0 +1,8 @@
+{
+  "realm": "todo",
+  "auth-server-url": "http://localhost:5173/",
+  "ssl-required": "external",
+  "resource": "mreja",
+  "public-client": true,
+  "confidential-port": 0
+}
