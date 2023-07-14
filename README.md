@@ -26,12 +26,10 @@ Database used: MySQL with SQLAlchemy
 
 Used Python Flask for creation of Backend Server
 Steps to run Server:
-Step 1: 
-        Open the folder using cmd or teminal
-Step 2:
-        cd ./Server
-Step 3:
-        Run the command flask run
+
+Step 1: Open the folder using cmd or teminal
+Step 2: cd ./Server
+Step 3:Run the command flask run
         it will start the flask app in localhost
 
 Frontend
