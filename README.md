@@ -29,6 +29,7 @@ Steps to run Server:
 
 Step 1: Open the folder using cmd or teminal
 Step 2: cd ./Server
+
 Step 3:Run the command flask run
         it will start the flask app in localhost
 
@@ -39,11 +40,10 @@ Frontend
 
 Steps to Run the frontend application
 
-Step 1:
-        Opne the main folder into cmd or terminal
-Step 2:
-        Cd ./ToDoWeb
-Step 3:
-        run the command 'npm install'
-step 4: 
-        run the command 'npm run dev'
+Step 1: Opne the main folder into cmd or terminal
+
+Step 2: Cd ./ToDoWeb
+
+Step 3: run the command 'npm install'
+
+step 4:  run the command 'npm run dev'
